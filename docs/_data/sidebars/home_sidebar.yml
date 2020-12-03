@@ -7,24 +7,30 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Export to modules
-      url: /export.html
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Convert to html
-      url: /export2html.html
+      title: Autokill
+      url: Autokill.html
     - output: web,pdf
-      title: Show doc
-      url: /showdoc.html
+      title: Check History in Memory
+      url: Check History in Memory.html
     - output: web,pdf
-      title: Test functions
-      url: /test.html
+      title: Clear Output
+      url: Clear Output.html
     - output: web,pdf
-      title: Core functions
-      url: /core.html
+      title: Disable Stdin
+      url: Disable Stdin.html
     - output: web,pdf
-      title: Command line functions
-      url: /cli.html
+      title: Empty Cell
+      url: Empty Cell.html
+    - output: web,pdf
+      title: 'null'
+      url: empty.html
+    - output: web,pdf
+      title: tutorial-nbdev
+      url: core.html
     output: web
-    title: Notebook
+    title: nbdev_tutorial
   output: web
   title: Sidebar

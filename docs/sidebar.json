@@ -1,10 +1,12 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "nbdev_tutorial": {
+    "Overview": "/",
+    "Autokill": "Autokill.html",
+    "Check History in Memory": "Check History in Memory.html",
+    "Clear Output": "Clear Output.html",
+    "Disable Stdin": "Disable Stdin.html",
+    "Empty Cell": "Empty Cell.html",
+    "null": "empty.html",
+    "tutorial-nbdev": "core.html"
   }
 }
