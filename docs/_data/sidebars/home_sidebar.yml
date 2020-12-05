@@ -10,21 +10,6 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Autokill
-      url: Autokill.html
-    - output: web,pdf
-      title: Check History in Memory
-      url: Check History in Memory.html
-    - output: web,pdf
-      title: Clear Output
-      url: Clear Output.html
-    - output: web,pdf
-      title: Disable Stdin
-      url: Disable Stdin.html
-    - output: web,pdf
-      title: Empty Cell
-      url: Empty Cell.html
-    - output: web,pdf
       title: 'null'
       url: empty.html
     - output: web,pdf

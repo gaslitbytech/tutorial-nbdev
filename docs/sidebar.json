@@ -1,11 +1,6 @@
 {
   "nbdev_tutorial": {
     "Overview": "/",
-    "Autokill": "Autokill.html",
-    "Check History in Memory": "Check History in Memory.html",
-    "Clear Output": "Clear Output.html",
-    "Disable Stdin": "Disable Stdin.html",
-    "Empty Cell": "Empty Cell.html",
     "null": "empty.html",
     "tutorial-nbdev": "core.html"
   }

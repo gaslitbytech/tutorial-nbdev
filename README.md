@@ -6,7 +6,7 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install nbdev_tutorial
+pip install nbdev_tutorial
 
 ## How to use
 
